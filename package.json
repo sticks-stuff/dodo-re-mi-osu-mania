@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "get-audio-duration": "^4.0.1",
+    "osu-parser": "^0.3.3"
+  }
+}
